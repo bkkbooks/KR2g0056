@@ -374,6 +374,7 @@ markers:
   - {type: line-break, offset: 1091, content: '', id: KR2g0056_WYG_004-4b06}
   - {type: indent, offset: 1091, content: 　, id: KR2g0056_krp_004-bkkind54}
   - {type: punctuation, offset: 1110, content: (, id: KR2g0056_krp_004-bkkpn1}
+  - {type: voice, offset: 1110, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 1111, content: /, id: KR2g0056_krp_004-bkkpn2}
   - {type: punctuation, offset: 1112, content: ), id: KR2g0056_krp_004-bkkpn3}
   - {type: 'kr:newline', offset: 1112, content: '
@@ -385,6 +386,7 @@ markers:
   - {type: punctuation, offset: 1113, content: /, id: KR2g0056_krp_004-bkkpn5}
   - {type: punctuation, offset: 1114, content: ), id: KR2g0056_krp_004-bkkpn6}
   - {type: punctuation, offset: 1123, content: (, id: KR2g0056_krp_004-bkkpn7}
+  - {type: voice, offset: 1123, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 1125, content: /, id: KR2g0056_krp_004-bkkpn8}
   - {type: punctuation, offset: 1127, content: ), id: KR2g0056_krp_004-bkkpn9}
   - {type: 'kr:newline', offset: 1135, content: '
@@ -973,6 +975,7 @@ markers:
   - {type: indent, offset: 2969, content: 　, id: KR2g0056_krp_004-bkkind144}
   - {type: substitution, offset: 2969, original: 葢, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19539}}
   - {type: punctuation, offset: 2986, content: (, id: KR2g0056_krp_004-bkkpn10}
+  - {type: voice, offset: 2986, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 2987, content: /, id: KR2g0056_krp_004-bkkpn11}
   - {type: punctuation, offset: 2988, content: ), id: KR2g0056_krp_004-bkkpn12}
   - {type: 'kr:newline', offset: 2990, content: '
@@ -1729,4 +1732,4 @@ markers:
 
       ', id: KR2g0056_krp_004-bkkkrnewl323}
   back: []
-hash: sha256:26e50c7c670fc87946aa8b2b9c46fc8641dc97c6e7d08f3e85200bbfd15ea97d
+hash: sha256:150fa5b41ec38067fec244c0fb0cc18392de530a56f7171c928dc0f0595df799
